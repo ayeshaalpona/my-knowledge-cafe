@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/2kMNyjp/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/KKNnCwj/photo1688756874.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 30,
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/pJG8tdH/davisuko-5-E5-N49-RWtb-A-unsplash.jpg",
+      "title": "Cooking with Love",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/KKNnCwj/photo1688756874.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 45,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/2kMNyjp/brigitte-tohm-EAay7-Aj4jbc-unsplash.jpg",
+      "title": "The Science of Space",
+      "author": "Astronomy Enthusiast",
+      "author_img": "https://i.ibb.co/KKNnCwj/photo1688756874.jpg",
+      "posted_date": "2023-09-09",
+      "reading_time": 60,
+      "hashtags": ["space", "science", "astronomy"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/n8shBpD/janko-ferlic-sf-L-QOnmy00-unsplash.jpg",
+      "title": "Traveling the World",
+      "author": "Wanderlust Explorer",
+      "author_img": "https://i.ibb.co/KKNnCwj/photo1688756874.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 40,
+      "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/RHwz2L7/annie-spratt-OWq8w3-BYMFY-unsplash.jpg",
+      "title": "Health and Wellness",
+      "author": "Healthy Living Guru",
+      "author_img": "https://i.ibb.co/KKNnCwj/photo1688756874.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 20,
+      "hashtags": ["health", "wellness", "fitness"]
+    }
+  ]
+  
